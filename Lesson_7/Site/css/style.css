@@ -1,0 +1,92 @@
+*{
+	box-sizing: border-box;
+}
+.main{
+	text-align: center;
+	font-family: Tahoma, sans-serif;
+}
+.section-1{
+	margin-top: 70px;
+	margin-bottom: 85px;
+}
+.header, .section-4 h2 {
+	text-transform: uppercase;
+	font-weight: 900;
+	font-size: 24px;
+}
+.section-1 span{
+	text-transform: none;
+	display: block;
+	margin-bottom: 8px;
+}
+.section-2, .section-4{
+	padding-left: 15%;
+	padding-right: 15%;
+	margin-bottom: 120px;
+}
+.video{
+	display: inline-block;
+	width: 555px;
+	height: 322px;
+	vertical-align: top;
+}
+.form{
+	display: inline-block;
+	border: 5px solid #2727d9;
+	font-size: 20px;
+	width: 360px;
+	height: 307px;
+	margin-left: 35px;
+}
+.form-header{
+	font-size: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 35px;
+	margin-top: 30px;
+}
+.inpt{
+	width: 295px;
+	padding: 12px;
+	display: block;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #333;
+	font-size: 18px;
+}
+botton{
+	display: inline-block;
+	font-size: 18px;
+	width: 295px;
+	height: 60px;
+	padding: 18px 0px;
+	background-color: #2727d9;
+	color: #fff;
+	margin-bottom: 25px;
+}
+.col{
+	display: inline-block;
+	text-align: center;
+	margin: 90px 50px;
+	font-size: 16px;
+}
+.icon p{
+	margin-top: 10px;
+}
+.botton-2{
+	margin-bottom: 70px;
+}
+.section-4{
+	text-align: center;
+	margin-bottom: 100px;
+}
+.clients-board{
+	margin-top: 100px;
+	margin-bottom: 70px;
+}
+.colomn{
+	display: inline-block;
+	margin-right: 25px;
+	margin-bottom: 35px;
+}
