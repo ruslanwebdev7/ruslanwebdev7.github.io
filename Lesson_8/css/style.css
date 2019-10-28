@@ -1,0 +1,14 @@
+.main{
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 115px;
+}
+span{
+	text-transform: uppercase;
+}
+.flex-item{
+	display: inline-flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 190px;
+}
