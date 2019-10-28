@@ -1,0 +1,22 @@
+h1{
+	text-align: center;
+	color: rgb(210, 105, 30);
+	font-size: 50px;
+}
+.first{
+	display: inline-block;
+	width: 700px;
+	text-align: left;
+}
+.second{
+	display: inline-block;
+	text-align: center;
+}
+.third{
+	display: inline-block;
+	width: 700px;
+	text-align: right;
+}
+body{
+	background-color: #37d3c3;
+}
